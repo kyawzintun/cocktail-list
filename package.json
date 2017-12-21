@@ -1,6 +1,6 @@
 {
+  "homepage": "http://kyawzintun.github.io/cocktail-list",
   "name": "cocktail-list",
-  "homepage": "http://cukyawzintun.github.io/cocktail-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
